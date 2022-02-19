@@ -18,7 +18,7 @@ In the last 13 weeks i went from have no clue about coding to learn different th
  -How to test your application (jest,cypress, supertest). \
  -How to deploy your app online using Netlify,Herouku, gatsby cloud. \
  -Difference between forntend(javascript,React) and backend(node.js,express) how to connect them togheter using fetch. \
- -How typescript is growing up in the business and the advantage of using it and so many thing other things\
+ -How typescript is growing up in the business and the advantage of using it and so many  other things.....
  
  # Hobbies
  
