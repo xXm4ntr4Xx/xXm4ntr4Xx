@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image info](https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/37057264_10217729886979308_6583938552688541696_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=b9115d&_nc_ohc=YWiS6djQBoEAX8EenFs&_nc_ht=scontent-lcy1-1.xx&oh=00_AT8Y16RJNGCuK-Eh2_99AQ125BPhSqG5zWF47nnd2rI01w&oe=6235D699)
+![image info](https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/37057264_10217729886979308_6583938552688541696_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=b9115d&_nc_ohc=YWiS6djQBoEAX8EenFs&_nc_ht=scontent-lcy1-1.xx&oh=00_AT8Y16RJNGCuK-Eh2_99AQ125BPhSqG5zWF47nnd2rI01w&oe=6235D699| width=100)
 
 My name is Pietro, Im 33 years old and im a software developer student at School of code.\
 I work as a Casino croupier on weekend , and during the week i work with others bootcampers how to became a software developer.\
