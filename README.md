@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Pietro, Im 33 years old and im a software developer student at School of code.\
-I work as a Casino croupier on weekend �, and during the week i work with others bootcampers how to became a software developer.\
+I work as a Casino croupier on weekend , and during the week i work with others bootcampers how to became a software developer.\
  🔭 I’m currently working on the 4 weeks project at School of  Code\
  
  
@@ -18,6 +18,6 @@ In the last 13 weeks i went from have no clue about coding to learn different th
  -How typescript is growing up in the business and the advantage of using it and so many thing .....  \
 
  
- 🔭 I’m currently working on the 4 weeks project at School of  Code
+ 
  
 
