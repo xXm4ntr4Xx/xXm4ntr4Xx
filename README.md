@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋\
+![image info](https://scikit-learn.org/stable/_static/ml_map.png)
 
 My name is Pietro, Im 33 years old and im a software developer student at School of code.\
 I work as a Casino croupier on weekend , and during the week i work with others bootcampers how to became a software developer.\
