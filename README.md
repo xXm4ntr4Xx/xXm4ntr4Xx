@@ -6,7 +6,7 @@ I work as a Casino croupier on weekend �, and during the week i work with othe
  
  
 In the last 13 weeks i went from have no clue about coding to learn different things like:
- -How to fecth data from an API. 
+ -How to fecth data from an API\
  -How work Agile methodology. 
  -How to set a tech stack. 
  -How work disney ideation(Dreamer,Realistic,Critic). 
