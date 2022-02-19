@@ -24,6 +24,7 @@ In the last 13 weeks i went from have no clue about coding to learn different th
  
  - Volleyball🏐, Tenni🎾, Basket🏀,Football⚽️ 
  - Salsa, Cuban Salsa, Bachata, Kizomba, Merengue 🕺🏾🕺🏾🕺🏾🕺🏾🕺🏾 
+ - 
  
 
 
