@@ -3,9 +3,9 @@
 <div style="text-align:center">
  <img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/37057264_10217729886979308_6583938552688541696_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=b9115d&_nc_ohc=YWiS6djQBoEAX8EenFs&_nc_ht=scontent-lcy1-1.xx&oh=00_AT8Y16RJNGCuK-Eh2_99AQ125BPhSqG5zWF47nnd2rI01w&oe=6235D699" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="500"/>
  </div>
-My name is Pietro, Im 33 years old and im a software developer student at School of code. \
-I work as a Casino croupier on weekend , and during the week i work with others bootcampers how to became a software developer. \
- 🔭 I’m currently working on the 4 weeks project at School of  Code \
+My name is Pietro, Im 33 years old and im a software developer student at School of code\
+I work as a Casino croupier on weekend , and during the week i work with others bootcampers how to became a software developer\
+ 🔭 I’m currently working on the 4 weeks project at School of  Code\
  
  
 In the last 13 weeks i went from have no clue about coding to learn different things like: \
