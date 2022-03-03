@@ -7,6 +7,7 @@ I work as a Casino croupier on weekend , and during the week i work with others 
  
  
 In the last 13 weeks i went from have no clue about coding to learn different things like: \
+ -Differne between UX and UI. \
  -How to fecth data from an API\
  -How work Agile methodology.\
  -How to set a tech stack. \
