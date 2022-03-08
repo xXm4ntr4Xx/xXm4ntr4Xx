@@ -1,4 +1,4 @@
-!!![Pietro Annobil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXm4ntr4Xx&theme=dark&show_icons=true)
+![Pietro Annobil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXm4ntr4Xx&theme=dark&show_icons=true)
 
 ### Hi there 👋
 
