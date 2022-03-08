@@ -26,7 +26,7 @@ In the last 13 weeks i went from have no clue about coding to learn different th
  - 
  
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXm4ntr4Xx)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
