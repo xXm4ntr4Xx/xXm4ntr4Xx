@@ -3,10 +3,9 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xXm4ntr4Xx&style=for-the-badge)
 
-
-
-
 ### Hi there 👋
+![me](https://user-images.githubusercontent.com/74420607/157676530-23f92f22-33d6-47fa-90b5-949a479f85f8.jpeg )
+
 
 My name is Pietro, I'm 33 years old and I'm a software developer student at School of code.
 I work as a Casino croupier on weekend, and during the week I work with other boot campers to become a software developer.
