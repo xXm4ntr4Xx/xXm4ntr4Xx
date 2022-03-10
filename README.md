@@ -2,15 +2,19 @@
 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=xXm4ntr4Xx&style=for-the-badge)
-
-### Hi there 👋
-![me](https://user-images.githubusercontent.com/74420607/157676530-23f92f22-33d6-47fa-90b5-949a479f85f8.jpeg )
+<p align="center">
+   # Hi there 👋
+ </p>
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74420607/157676530-23f92f22-33d6-47fa-90b5-949a479f85f8.jpeg" width="400" height="300">
+</p>
 
 
 My name is Pietro, I'm 33 years old and I'm a software developer student at School of code. I work as a Casino croupier on weekend, and during the week I work with other boot campers to become a software developer. 🔭 I’m currently working on the 4 weeks project at School of Code.
 In the last 13 weeks, I went from having no experience with coding to learning different things like -Difference between UX and UI. -How to fetch data from an API -How to work Agile methodology. -How to set a tech stack. -How to work Disney ideation(Dreamer, Realistic, Critic). -How to use a Kanban Board to organize the project sprint. -Difference between user Stories and User Personas. -How to test your application (jest, cypress, superset). -How to deploy your app online using Netlify, Heroku, gatsby cloud. -Difference between frontend(javascript, React) and backend(node. js, express) how to connect them using fetch. -How typescript is growing up in the business and the advantage of using it and so many other things.....
 
-# Tech stacks
+<p align="center"> # Tech stacks </p>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,10 +33,19 @@ In the last 13 weeks, I went from having no experience with coding to learning d
 ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 
- # Hobbies
+ <p align="center">
+ # Hobbies 
+</p>
  
- - Volleyball🏐, Tenni🎾, Basket🏀,Football⚽️ 
+ - Tenni🎾, Basket🏀,Football⚽️, Volleyball🏐🏐🏐🏐,
+  <p align="center">
+ <img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/37061786_10217729892259440_748839831664066560_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=b9115d&_nc_ohc=9KjGhnle4VsAX_rNOyO&_nc_ht=scontent-lcy1-1.xx&oh=00_AT_HGz3mPnwizmkxGTxbPgBQlpzxr3TdyhLxYyXloslE_g&oe=6251734D" width="400" height="300">
+ </p>
  - Salsa, Cuban Salsa, Bachata, Kizomba, Merengue 🕺🏾🕺🏾🕺🏾🕺🏾🕺🏾 
+  <p align="center">
+<img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t31.18172-8/20157132_917446808420746_2189247109655678876_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=84a396&_nc_ohc=-ccVx2x-rmQAX-3QIsZ&_nc_ht=scontent-lcy1-1.xx&oh=00_AT-KSRG-wYCeFEwZdIfJot5zDcWkN5m-wtPPm1yrsyZ4WQ&oe=6250AA91" width="400" height="300">
+ </p>
+  
  
 <a href="https://github.com/xXm4ntr4Xx/xXm4ntr4Xx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXm4ntr4Xx&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
