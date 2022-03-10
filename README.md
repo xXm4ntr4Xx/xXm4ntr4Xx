@@ -1,7 +1,7 @@
 ![Pietro Annobil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXm4ntr4Xx&theme=dark&show_icons=true)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=xXm4ntr4Xx)
+![Profile View Counter](https://komarev.com/ghpvc/?username=xXm4ntr4Xx&style=for-the-badge)
 
 
 
