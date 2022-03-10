@@ -33,9 +33,9 @@ In the last 13 weeks, I went from having no experience with coding to learning d
 ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 
- <p align="center"> 
+ 
  # Hobbies   
-</p>
+
  
  <p align="center">
  Tenni🎾, Basket🏀,Football⚽️, Volleyball🏐🏐🏐🏐
