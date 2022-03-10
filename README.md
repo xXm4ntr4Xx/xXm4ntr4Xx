@@ -24,6 +24,9 @@ In the last 13 weeks, I went from having no experience with coding to learning d
 -Difference between frontend(javascript, React) and backend(node. js, express) how to connect them together using fetch.
 -How typescript is growing up in the business and the advantage of using it and so many other things.....
 
+
+
+
  # Hobbies
  
  - Volleyball🏐, Tenni🎾, Basket🏀,Football⚽️ 
