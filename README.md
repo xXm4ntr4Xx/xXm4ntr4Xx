@@ -39,22 +39,13 @@ In the last 13 weeks, I went from having no experience with coding to learning d
  
  <p align="center">
  Tenni🎾, Basket🏀,Football⚽️, Volleyball🏐🏐🏐🏐
-</p>
- 
+</p> 
   <p align="center">
  <img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/37061786_10217729892259440_748839831664066560_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=b9115d&_nc_ohc=9KjGhnle4VsAX_rNOyO&_nc_ht=scontent-lcy1-1.xx&oh=00_AT_HGz3mPnwizmkxGTxbPgBQlpzxr3TdyhLxYyXloslE_g&oe=6251734D" width="400" height="300">
  </p>
  
- 
- <p align="center">
   Salsa, Cuban Salsa, Bachata, Kizomba, Merengue 🕺🏾🕺🏾🕺🏾🕺🏾🕺🏾 
-</p>
 
-  <p align="center">
-<img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t31.18172-8/20157132_917446808420746_2189247109655678876_o.jpg?_nc_cat=101&ccb=1-5&_nc_sid=84a396&_nc_ohc=-ccVx2x-rmQAX-3QIsZ&_nc_ht=scontent-lcy1-1.xx&oh=00_AT-KSRG-wYCeFEwZdIfJot5zDcWkN5m-wtPPm1yrsyZ4WQ&oe=6250AA91" width="400" height="300">
- </p>
-  
- 
 <a href="https://github.com/xXm4ntr4Xx/xXm4ntr4Xx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXm4ntr4Xx&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
