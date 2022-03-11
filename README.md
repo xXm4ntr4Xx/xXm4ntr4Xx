@@ -57,3 +57,5 @@ In the last 13 weeks, I went from having no experience with coding to learning d
  
 My Portfolio : 
 https://pietroannoibl-portfolio.netlify.app/
+CV
+https://soc-national-bootcamp.slack.com/files/U02LE6ZQX5K/F0364MDDZ0R/curriculum__1_.pdf?origin_team=T02J6MYFA2H&origin_channel=D02P1S7U5UY
