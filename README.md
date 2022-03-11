@@ -57,6 +57,8 @@ In the last 13 weeks, I went from having no experience with coding to learning d
  
 My Portfolio : 
 https://pietroannoibl-portfolio.netlify.app/
+
+
 CV
 [Cv figma.pdf](https://github.com/xXm4ntr4Xx/xXm4ntr4Xx/files/8232960/Cv.figma.pdf)
 
