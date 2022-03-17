@@ -62,14 +62,12 @@ My Portfolio :
 https://pietroannoibl-portfolio.netlify.app/
 
 
-CV
+CV. 
 [Cv figma.pdf](https://github.com/xXm4ntr4Xx/xXm4ntr4Xx/files/8232960/Cv.figma.pdf)
 
 
 #Project link
 
-Portfolio. 
-https://pietroannoibl-portfolio.netlify.app/
 <hr/>
 
 Group Project Link   
