@@ -66,8 +66,6 @@ CV.
 [Cv figma.pdf](https://github.com/xXm4ntr4Xx/xXm4ntr4Xx/files/8232960/Cv.figma.pdf)
 
 
-#Project link
-
 <hr/>
 
 Group Project Link   
