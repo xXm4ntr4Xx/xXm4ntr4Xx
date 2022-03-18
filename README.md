@@ -74,6 +74,7 @@ https://bootcamperknowledge.herokuapp.com/
 
 
 SOC final Project and presentation
+
 https://beyonderbound.netlify.app/ 
 
 https://vimeo.com/manage/videos/689216304
