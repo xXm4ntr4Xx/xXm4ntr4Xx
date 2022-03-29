@@ -73,6 +73,11 @@ https://www.freecodecamp.org/xXm4ntr4Xx
 Codewars
 https://www.codewars.com/users/bladeyugo88
 <hr/>
+Codecademy
+https://www.codecademy.com/profiles/xXm4ntr4Xx
+<hr/>
+
+
 Group Project Link   
 SOC week project. 
 https://bootcamperknowledge.herokuapp.com/
