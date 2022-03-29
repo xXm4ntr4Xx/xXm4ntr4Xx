@@ -67,7 +67,12 @@ CV.
 
 
 <hr/>
-
+FreecodeCamp
+https://www.freecodecamp.org/xXm4ntr4Xx
+<hr/>
+Codewars
+https://www.codewars.com/users/bladeyugo88
+<hr/>
 Group Project Link   
 SOC week project. 
 https://bootcamperknowledge.herokuapp.com/
