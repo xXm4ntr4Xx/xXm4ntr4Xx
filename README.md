@@ -1,7 +1,4 @@
-![Pietro Annobil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXm4ntr4Xx&theme=dark&show_icons=true)
 
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=xXm4ntr4Xx&style=for-the-badge)
 <p align="center">
    # Hi there 👋
  </p>
@@ -56,7 +53,11 @@ In the last 13 weeks, I went from having no experience with coding to learning d
  
  ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![Pietro Annobil's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXm4ntr4Xx&theme=dark&show_icons=true)
  
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=xXm4ntr4Xx&style=for-the-badge)
  
 My Portfolio : 
 https://pietroannoibl-portfolio.netlify.app/
