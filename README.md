@@ -62,8 +62,9 @@ In the last 13 weeks, I went from having no experience with coding to learning d
 My Portfolio : 
 https://pietroannoibl-portfolio.netlify.app/
 
+CV:
 
-
+https://www.figma.com/file/SbS3cjacRqi6rlot1ajt9G/Curriculum
 
 <hr/>
 FreecodeCamp
