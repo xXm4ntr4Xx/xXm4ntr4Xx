@@ -63,7 +63,9 @@ My Portfolio :
 https://pietroannoibl-portfolio.netlify.app/
 
 
-----
+CV
+
+https://www.figma.com/file/SbS3cjacRqi6rlot1ajt9G/Curriculum
 
 
 <hr/>
