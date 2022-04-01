@@ -63,8 +63,7 @@ My Portfolio :
 https://pietroannoibl-portfolio.netlify.app/
 
 
-CV. 
-[Cv figma.pdf](https://github.com/xXm4ntr4Xx/xXm4ntr4Xx/files/8232960/Cv.figma.pdf)
+----
 
 
 <hr/>
