@@ -40,9 +40,9 @@ In the last 13 weeks, I went from having no experience with coding to learning d
  <p align="center">
  Tenni🎾, Basket🏀,Football⚽️, Volleyball🏐🏐🏐🏐
 </p> 
-  <p align="center">
+<!--   <p align="center">
  <img src="https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/37061786_10217729892259440_748839831664066560_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=b9115d&_nc_ohc=9KjGhnle4VsAX_rNOyO&_nc_ht=scontent-lcy1-1.xx&oh=00_AT_HGz3mPnwizmkxGTxbPgBQlpzxr3TdyhLxYyXloslE_g&oe=6251734D" width="400" height="300">
- </p>
+ </p> -->
  
   Salsa, Cuban Salsa, Bachata, Kizomba, Merengue 🕺🏾🕺🏾🕺🏾🕺🏾🕺🏾 
 
@@ -63,9 +63,6 @@ My Portfolio :
 https://pietroannoibl-portfolio.netlify.app/
 
 
-CV
-
-https://www.figma.com/file/SbS3cjacRqi6rlot1ajt9G/Curriculum
 
 
 <hr/>
