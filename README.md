@@ -6,8 +6,6 @@
 <p align="center">
    # Hi there 👋
  </p>
- 
-
 My name is Pietro, a software developer graduate at School of code. I work as a Casino croupier on weekend, and during the week I work with other junior's to become a better software developer.  <br>🔭
 
 In the last 13 weeks, I went from having no experience with coding to learning different things like: <br> -Difference between UX and UI. <br>-How to fetch data from an API <br>-How to work using Agile methodology. <br>-How to set a tech stack. <br>-How to work Disney ideation(Dreamer, Realistic, Critic). <br>-How to use a Kanban Board to organize the project sprint. <br>-Difference between user Stories and User Personas. <br>-How to test your application (jest, cypress, superset). <br>-How to deploy your app online using Netlify, Heroku, gatsby cloud. <br>-Difference between frontend(javascript, React) and backend(node. js, express)and how to connect them using fetch. <br>-How typescript is growing up in the business and the advantage of using it and so many other things.....
