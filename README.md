@@ -6,7 +6,7 @@
  </p>
 My name is Pietro, a software developer graduate at School of code, starting a new  learning programme as tech Pioneer with Albany Beck Consulting. I work as a Casino croupier on weekend, and during the week  working with other junior's to become a better software developer.  <br>🔭
 
- Key point of my learning process are: <br> - UX and UI. <br>- API <br>- Agile methodology. <br>-Tech stack. <br>- Disney Ideation Brainstorm(Dreamer, Realistic, Critic). <br>-How to use a Kanban Board to organize the project sprint. <br>-Difference between user Stories and User Personas. <br>-Application test (jest, cypress, superset). <br>-Deploy application using Netlify, Heroku, gatsby cloud. <br>-Frontend(javascript, React) Backend(node. js, express) <br>-Typescript<br> Springboot application using spring web,spring data JPA,My SQL Driver<br> -Microservices(Eureka Client and Eureka Server)<br>
+ Key point of my learning process are: <br> - UX and UI. <br>- API <br>- Agile methodology. <br>-Tech stack. <br>- Disney Ideation Brainstorm(Dreamer, Realistic, Critic). <br>-How to use a Kanban Board to organize the project sprint. <br>-Difference between user Stories and User Personas. <br>-Application test (jest, cypress, superset). <br>-Deploy application using Netlify, Heroku, gatsby cloud. <br>-Frontend(javascript, React) Backend(node. js, express) <br>-Typescript<br>-Springboot application using spring web,spring data JPA,My SQL Driver<br> -Microservices(Eureka Client and Eureka Server)<br>
 
 <p align="center"> # Tech stacks </p>
 
